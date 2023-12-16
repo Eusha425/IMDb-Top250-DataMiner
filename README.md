@@ -26,7 +26,7 @@ This Python script delves into the world of IMDb, the go-to source for movie, TV
 - **requests**: Used for making HTTP requests in Python.
 - **csv**: Used for reading and writing CSV files.
 
-## 🌈 Future Improvements
+## ⚙️ Future Improvements
 
 - **More data points**: Plan to add more data points to scrape for a more comprehensive dataset.
 - **Data cleaning**: Implement data cleaning in the script to ensure the data is ready for analysis.
