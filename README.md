@@ -31,5 +31,3 @@ This Python script delves into the world of IMDb, the go-to source for movie, TV
 - **More data points**: Plan to add more data points to scrape for a more comprehensive dataset.
 - **Data cleaning**: Implement data cleaning in the script to ensure the data is ready for analysis.
 - **Data visualization**: Add data visualization capabilities to represent the data in a more understandable and visually appealing way.
-
-Thank you for visiting this repository. Enjoy exploring the data and happy coding! 🎉
